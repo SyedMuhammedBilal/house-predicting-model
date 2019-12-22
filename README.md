@@ -1,2 +1,2 @@
-# house-predicting-model
+# Deep-learning-house-predicting-model
 deeplearning project
